@@ -1,0 +1,25 @@
+{
+  "name": "roulette",
+  "version": "0.0.1",
+  "description": "Betting strategy simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/growlybear/roulette.git"
+  },
+  "author": "Michael Allan",
+  "license": "BSD",
+  "private": true,
+  "readmeFilename": "README.md",
+  "gitHead": "28e11edda282ad45babe3a00098026ccf066d2f7",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-jshint": "~0.1.1"
+  }
+}
